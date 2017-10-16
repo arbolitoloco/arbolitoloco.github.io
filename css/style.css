@@ -25,8 +25,13 @@ h1, h2, h3 {
 }
 
 .social-icons li {
+	display: inline-block;
 	padding: 0 1rem;
 	font-size: 3rem;
+}
+
+.area-icons li {
+  display: inline;
 }
 
 /* Mobile first queries */
@@ -40,19 +45,11 @@ h1, h2, h3 {
 /* Larger than tablet */
 @media (min-width: 750px) {
 	.container {
-		padding: 5% 0;
+		padding: 3% 0;
 	}
 
 	#profile {
 		margin-top: 3%;
-	}
-
-	.social-icons li {
-    display: inline-block;
-	}
-
-	.area-icons li {
-    display: inline;
 	}
 
 	.one-half column {
