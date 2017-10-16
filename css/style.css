@@ -34,6 +34,14 @@ h1, h2, h3 {
   display: inline;
 }
 
+footer {
+	text-align: center;
+}
+
+footer p {
+	font-size: 1rem;
+}
+
 /* Mobile first queries */
 
 /* Larger than mobile */
