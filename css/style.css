@@ -18,6 +18,10 @@ Typography
 /* -----------------
 General Styles
 ------------------ */
+html {
+  height: 100%;
+}
+
 
 body {
 	font-family: 'Open Sans', sans-serif;
@@ -44,6 +48,12 @@ p {
 .uppercase {
 	text-transform: uppercase;
 }
+
+.container {
+  max-width: 760px;
+  margin-top: 2rem;
+}
+
 
 /* -----------------
 Profile
@@ -249,6 +259,7 @@ footer {
 
 footer p {
 	font-size: 1rem;
+  margin-bottom: 0;
 }
 
 /* -----------------
