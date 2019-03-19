@@ -4,6 +4,7 @@
 #B1EB00 green
 #52BBF4 blue
 #FE85CA pink
+#FC0FC0 hot pink
 #FF432F red
 #FEAC00 orange
 
@@ -187,8 +188,8 @@ h2 {
 }
 
 .pink {
-	border-color: #FE85CA;
-	background: #FE85CA;
+	border-color: #FC0FC0;
+	background: #FC0FC0;
 }
 
 .red {
