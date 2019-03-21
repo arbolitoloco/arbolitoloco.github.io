@@ -7,6 +7,7 @@
 #FC0FC0 hotpink
 #FF432F red
 #FEAC00 orange
+#606060 gray
 
 
 /* ----------------- 
@@ -25,8 +26,8 @@ html {
 
 
 body {
-  font: 200 16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-	color: gray;
+  font: 300 16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+	color: #606060;
 }
 
 h1, h2, h3 {
