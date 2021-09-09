@@ -5,3 +5,4 @@ gem 'jekyll'
 gem 'jekyll-paginate'
 gem 'jekyll-tagging'
 gem "webrick", "~> 1.7"
+gem 'wdm', '>= 0.1.0'
