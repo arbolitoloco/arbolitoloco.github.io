@@ -4,7 +4,7 @@ title: About
 image: "/images/posts/image15.jpeg"
 ---
 
-# Hi! I'm Laura
+# Hi! I'm Laura.
 
 I am a leaf beetle taxonomist who loves to code. I am currently working as Biodiversity Bioinformatician at the Arizona State University, in Tempe, AZ, US. My responsabilities include developing and managing different Symbiota portals from many scientific disciplines, creating and developing tools to aid scientific research, and managing/cleaning/manipulating Biodiversity Data.
 
