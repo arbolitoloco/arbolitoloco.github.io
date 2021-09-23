@@ -25,7 +25,6 @@ Here is a gallery of featured label formats that I customized to fit very specif
 ![image tooltip here](/images/posts/label_neon_skull_vial.jpg)
 
 - **Symbiota Portal**: [NEON Biorepository Data Portal](https://biorepo.neonscience.org/)
-- **Size**:
 - **Special features**: custom barcode image, custom size
 - **Designed by**: Laura Steger, NEON Biorepository Plants & Vertebrates Collection Manager
 
@@ -38,7 +37,6 @@ Here is a gallery of featured label formats that I customized to fit very specif
 ![image tooltip here](/images/posts/label_neon_mam_box.jpg)
 
 - **Symbiota Portal**: [NEON Biorepository Data Portal](https://biorepo.neonscience.org/)
-- **Size**:
 - **Special features**: custom barcode image, custom size
 - **Designed by**: Laura Steger, NEON Biorepository Plants & Vertebrates Collection Manager
 
@@ -47,7 +45,6 @@ Here is a gallery of featured label formats that I customized to fit very specif
 ![image tooltip here](/images/posts/label_neon_fish.jpg)
 
 - **Symbiota Portal**: [NEON Biorepository Data Portal](https://biorepo.neonscience.org/)
-- **Size**:
 - **Special features**: custom barcode image
 - **Designed by**: Laura Steger, NEON Biorepository Plants & Vertebrates Collection Manager
 
@@ -58,7 +55,6 @@ Here is a gallery of featured label formats that I customized to fit very specif
 ![image tooltip here](/images/posts/packet_asu_lichen.jpg)
 
 - **Symbiota Portal**: [NEON Biorepository Data Portal](https://biorepo.neonscience.org/)
-- **Size**:
 - **Special features**: custom barcode image, fold marks, option to output collection short name on top of barcode image, custom size
 - **Designed by**: Frank Bungartz, ASU Lichen Herbarium collection manager
 
@@ -67,6 +63,5 @@ Here is a gallery of featured label formats that I customized to fit very specif
 ![image tooltip here](/images/posts/label_asumoc_box.jpg)
 
 - **Symbiota Portal**: [Invert-E-Base](https://invertebase.org/)
-- **Size**:
 - **Special features**: custom barcode image, custom label project name in each label, custom size
 - **Designed by**: Sangmi Lee, ASU Hasbrouck Insect Collection curator
