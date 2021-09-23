@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="wrapper">
+  <div class="row row--full">
+    <div class="column large-12">
+      <header class="page-header box">
+        <div data-icon="ei-tag" data-size="s" class="box__icon"></div>
+        <div class="box__body">
+          <h4 class="box__title">All Tags</h4>
+        </div>
+      </header>
+    </div>
+  </div>
+  <div class='row row--full'>
+    <div class='column large-12'>
+    {% capture tags %}
+      {% for tag in site.tags %}
+        {{ tag[0] }}
+      {% endfor %}
+      {% endcapture %}
+      {% assign sortedtags = tags | split:' ' | sort %}
+
+      {% for tag in sortedtags %}
+      <h3 id="{{ tag }}">{{ tag }}</h3>
+      <ul>
+      {% for post in site.tags[tag] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+    {% endfor %}
+    </div>
+  </div>
+</div>
