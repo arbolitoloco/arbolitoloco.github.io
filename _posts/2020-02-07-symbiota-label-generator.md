@@ -3,7 +3,7 @@ layout: post
 title: Symbiota Label Format Generator
 featured: true
 author: laura
-tags: [javascript, php, json, css, symbiota, labels]
+tags: [javascript, php, json, css, symbiota, labels, natural-history-tools]
 image: "/images/posts/symbiota-label-generator-screenshot.jpg"
 ---
 
