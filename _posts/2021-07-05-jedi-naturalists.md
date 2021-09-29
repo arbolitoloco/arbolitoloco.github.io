@@ -14,7 +14,9 @@ It was a summer course with a very intensive and interactive program, where our 
 As part of the course, I had the opportunity to teach during the week dedicated to biodiversity informatics, where we discussed the basics, had a chance to dabble in collaborative programming, data cleaning, and data visualization. The final project of the course was to assist the scholars to fill out their profile in the ["JEDI Naturalists" website](https://serv.biokic.asu.edu/) that I designed and developed in HTML + CSS + vanilla JavaScript + LeafletJS (for maps).
 
 ![JEDI Naturalists Website Class of 2021 Screenshot](/images/posts/jedi-nats-screenshot.png)
+*JEDI Naturalists Website Class of 2021 Screenshot*
 
 Prior to building their profiles, the scholars had two field trips, where they collected samples, as well as four weeks in different natural history collections, where they prepared specimens and digitized sample information. The scholars then were taught how to download the publicly available digitized data they captured, and how to clean data using a variety of methods.
 
 ![JEDI Naturalists Profiles Showcase Example](/images/posts/jedi-nats-profile-demo.gif)
+*An animated GIF showcasing one of the profiles included in the JEDI Naturalists website*
