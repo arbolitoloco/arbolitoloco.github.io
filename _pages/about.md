@@ -6,7 +6,7 @@ image: "/images/pages/dowhatmakesyouhappy.jpg"
 
 # Hi! I'm Laura.
 
-I am a leaf beetle taxonomist who loves to code. I am currently working as Biodiversity Informatician at the Arizona State University, in Tempe, AZ, US. My responsabilities include developing and managing different Symbiota portals from many scientific disciplines, creating and developing tools to aid scientific research, cleaning/processing Biodiversity Data and facilitating access to Biodiversity Data throught public websites and APIs.
+I am a leaf beetle taxonomist who loves to code. I am currently working as Biodiversity Informatician at the Arizona State University, in Tempe, AZ, US. My responsibilities include developing and managing different Symbiota portals from many scientific disciplines, creating and developing tools to aid scientific research, cleaning/processing Biodiversity Data and facilitating access to Biodiversity Data through public websites and APIs.
 
 I've always been passionate about programming, having written my first lines of code as a child. Since joining grad school (2008), I started coding to solve problems that I faced while doing research. I've worked as a full-stack web developer for the industry, coding everything from responsive newsletters, to one-page websites and custom Wordpress themes for e-commerces. In 2015 I received my Doctoral Degree in Zoology at the University of São Paulo, Brazil, where I specialized in Systematics of Leaf Beetles. I have been merging computer science and biology ever since. My favorite technologies to play with are Python, JavaScript, PHP, SQL and CSS.
 
