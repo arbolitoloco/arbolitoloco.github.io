@@ -7,9 +7,9 @@ tags: [symbiota, wordpress, css]
 image: "/images/posts/symbiota.org_revamped-detail-small.jpg"
 ---
 
-Since the Symbiota Support Hub has moved most of the efforts in creating documentation and help resources to the [Symbiota Docs]() website and repository, I was tasked with revamping the main [Symbiota.org]() WordPress website.
+Since the Symbiota Support Hub has moved most of the efforts in creating documentation and help resources to the [Symbiota Docs](https://symbiota.org/docs/) website and repository, I was tasked with revamping the main [Symbiota.org](https://symbiota.org/) WordPress website.
 
-I've used the stylish logo created by Andy Miller (reworked by Samanta Orellana) to pick a color palette that was not too flashy. I reworked the content from the original front-page (initially worked on by Cat Chapman and later by Katelin Pearson) to adapt it to a modern layout. I have also changed fonts and font-sizes to make the looks aligned with the ones I proposed for the [Symbiota Docs]() website.
+I've used the stylish logo created by Andy Miller (reworked by Samanta Orellana) to pick a color palette that was not too flashy. I reworked the content from the original front-page (initially worked on by Cat Chapman and later by Katelin Pearson) to adapt it to a modern layout. I have also changed fonts and font-sizes to make the looks aligned with the ones I proposed for the [Symbiota Docs](https://symbiota.org/docs/) website.
 
  <div id='symbiota-compare' class='compare-container'  style='height:800px'>
     <div class='img background-img'></div>
