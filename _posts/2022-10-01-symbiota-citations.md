@@ -4,7 +4,7 @@ title: Symbiota Collection Citations Module
 featured: true
 author: laura
 tags: [symbiota, citations, gbif, php, javascript, sql]
-image: "/images/posts/symbiota-docs-screenshot-cropped.jpg"
+image: "/images/posts/symbiota-citation-detail.jpg"
 ---
 
 To encourage data citations and to improve the discoverability of data published in Symbiota portals, I created a module that enables citation templates to be referenced by each collection in a Symbiota portal.
