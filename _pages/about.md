@@ -16,4 +16,4 @@ I love the interface between science, creativity, and technology, and I'm hoping
 
 You can find me on [GitHub](https://github.com/arbolitoloco), [Twitter](https://twitter.com/arbolitoloco), or [LinkedIn](https://www.linkedin.com/in/laura-rocha-prado/).
 
-For scientific profiles, find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=q0DAb2wAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214676383) or [ORCID](https://orcid.org/0000-0003-1237-2824).
+For scientific profiles, find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=q0DAb2wAAAAJ), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57214676383) or [ORCID](https://orcid.org/0000-0003-1237-2824). You can see a short version of my CV [here](/files/Curriculum_Vitae_Laura_Rocha_Prado_2023_One_Sheet.pdf).
